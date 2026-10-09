@@ -1,0 +1,6 @@
+@汇制造MES系统_HostAddress = http://localhost:5025
+
+GET {{汇制造MES系统_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
